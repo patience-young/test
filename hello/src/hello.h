@@ -1,4 +1,4 @@
-#inndef __HELLO_H__
+#ifndef __HELLO_H__
 #define __HELLO_H__
 
 #endif
