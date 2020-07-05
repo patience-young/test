@@ -1,0 +1,5 @@
+/home/young/git/test/hello/build/CMakeFiles/rebuild_cache.dir
+/home/young/git/test/hello/build/CMakeFiles/edit_cache.dir
+/home/young/git/test/hello/build/src/CMakeFiles/rebuild_cache.dir
+/home/young/git/test/hello/build/src/CMakeFiles/Hello.dir
+/home/young/git/test/hello/build/src/CMakeFiles/edit_cache.dir
